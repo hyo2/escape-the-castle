@@ -16,6 +16,8 @@ OSS project - Pygame 라이브러리를 사용한 게임 제작 프로젝트
 
 ### 상세내용
 - 시연 영상
+  
+![Escape The Castle(Game Clear!)](https://github.com/hyo2/escape-the-castle/assets/70335241/7b69b2ea-dd32-4387-8ef0-b0dca506d2c4)
 
 - 플레이어
   
