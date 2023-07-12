@@ -15,23 +15,23 @@ OSS project - Pygame 라이브러리를 사용한 게임 제작 프로젝트
 - 적과 충돌했을 시 ‘스페이스 바’와 방향키를 눌러 다시 충돌이 일어나지 않도록 피합니다.
 
 ### 상세내용
-- 시연 영상
+- **시연 영상**
   
 ![Escape The Castle(Game Clear!)](https://github.com/hyo2/escape-the-castle/assets/70335241/7b69b2ea-dd32-4387-8ef0-b0dca506d2c4)
 
-- 플레이어
+- **플레이어**
   
 ![Player](https://github.com/hyo2/escape-the-castle/assets/70335241/7d1fbffd-d707-4f11-826c-a3fc1611f43d)
 
-- 적
+- **적**
   
 ![Enemy](https://github.com/hyo2/escape-the-castle/assets/70335241/71dd793c-d57a-4fa4-8cfd-3a240197b591)
 
-- 열쇠 & 문
+- **열쇠 & 문**
 
 ![Key Door](https://github.com/hyo2/escape-the-castle/assets/70335241/352c79e1-ca6c-46d7-9fcc-b9ddf2b3d39d)
 
-- 스테이지
+- **스테이지**
 
 ![Stage1](https://github.com/hyo2/escape-the-castle/assets/70335241/fb4b370b-835b-475a-ba9f-56e50fd9514a)
 
