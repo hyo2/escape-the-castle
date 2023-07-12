@@ -1,4 +1,3 @@
-![Stage3](https://github.com/hyo2/escape-the-castle/assets/70335241/31b8daa5-34c4-4c34-bfff-ce1d3d3b1ba7)
 # Escape The Castle
 OSS project - Pygame 라이브러리를 사용한 게임 제작 프로젝트
 
